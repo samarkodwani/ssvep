@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Dataset files
+data/
+
+# Python virtual environments
+.venv/
+
+# Optional: Conda environment configuration
+.env
