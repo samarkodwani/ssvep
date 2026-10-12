@@ -227,5 +227,5 @@ data/
 # Python virtual environments
 .venv/
 
-# Optional: Conda environment configuration
+# Conda environment configuration
 .env
